@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/almasaeed2010/adminlte" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/cebe/yii2-gravatar" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/dmstr/yii2-adminlte-asset" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/fortawesome/font-awesome" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/bootstrap-fileinput" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/bootstrap-star-rating" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/dependent-dropdown" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/php-date-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-datecontrol" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-krajee-base" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-activeform" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-affix" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-alert" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-colorinput" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-datepicker" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-datetimepicker" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-depdrop" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-fileinput" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-growl" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-rangeinput" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-rating" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-select2" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-sidenav" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-spinner" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-switchinput" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-timepicker" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-touchspin" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widget-typeahead" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/kartik-v/yii2-widgets" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/rmrevin/yii2-fontawesome" />
+      <excludeFolder url="file://$MODULE_DIR$/yii2-app-advanced/vendor/select2/select2" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

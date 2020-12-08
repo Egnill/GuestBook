@@ -1,0 +1,12 @@
+RewriteEngine on
+
+# hide files and folders
+RedirectMatch 404 /\.git
+RedirectMatch 404 /composer\.
+RedirectMatch 404 /.bowerrc
+
+# if a directory or a file exists, use the request directory
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# Othervise forvard the request to index.php
+RewriteRule . index.php
