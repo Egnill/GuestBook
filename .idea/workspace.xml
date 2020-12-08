@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaf17066-a585-4be4-bbf1-777a407942f7" name="Default Changelist" comment="" />
+    <list default="true" id="aaf17066-a585-4be4-bbf1-777a407942f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,14 +150,14 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Programs\OSPanel\domains\localhost2\public_html" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programs\OSPanel\domains\localhost2\yii2-app-advanced\frontend\views" />
       <recent name="D:\Programs\OSPanel\domains\localhost2\public_html\admin" />
       <recent name="D:\Programs\OSPanel\domains\localhost2\public_html" />
       <recent name="D:\Programs\OSPanel\domains\localhost2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programs\OSPanel\domains\localhost2\public_html" />
     </key>
   </component>
   <component name="StructureViewFactory">
@@ -191,7 +193,7 @@
       <workItem from="1607152231073" duration="4528000" />
       <workItem from="1607253874216" duration="6677000" />
       <workItem from="1607317592779" duration="9086000" />
-      <workItem from="1607408899799" duration="6131000" />
+      <workItem from="1607408899799" duration="7564000" />
     </task>
     <servers />
   </component>
